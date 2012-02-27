@@ -1,2 +1,4 @@
 #ignore *.pyc files
 *.pyc
+#ignore env_piplmesh directory
+/env_piplmesh/*
