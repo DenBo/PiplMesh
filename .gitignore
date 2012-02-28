@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 #ignore *.pyc files
 *.pyc
 #ignore env_piplmesh directory
+=======
+# OS Generated Files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Python Compiled Source Code
+*.pyc
+
+# Virtual environment
+>>>>>>> issue-10
 env_piplmesh/
